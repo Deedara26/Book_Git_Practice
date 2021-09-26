@@ -4,3 +4,8 @@ this is page 2 of chapter 1
 Our second file
 
 now we have git enabled
+
+
+
+i have great idea, I came here to make some changes.
+So here they are. Please enjoy
